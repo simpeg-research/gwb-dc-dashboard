@@ -1,0 +1,12 @@
+name: gwb-dc
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - mkl
+  - voila=0.0.13
+  - pip:
+    - SimPEG
+
