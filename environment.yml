@@ -8,5 +8,5 @@ dependencies:
   - mkl
   - voila=0.0.13
   - pip:
-    - SimPEG
+    - git+https://github.com/simpeg/simpeg
 
