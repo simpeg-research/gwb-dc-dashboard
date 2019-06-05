@@ -6,7 +6,7 @@ dependencies:
   - scipy
   - matplotlib
   - mkl
-  - voila=0.0.13
+  - voila
   - pip:
     - git+https://github.com/simpeg/simpeg
 
