@@ -1,11 +1,18 @@
+**| [usage](#usage) | [running the notebooks](#running-the-notebooks) | [issues](#issues) | [license](#license)|**
+
 # gwb-dc-dashboard
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/simpeg-research/gwb-dc-dashboard/master)
+[![License](https://img.shields.io/github/license/simpeg-research/gwb-dc-dashboard.svg)](https://github.com/simpeg-research/gwb-dc-dashboard/blob/master/LICENSE)
+[![SimPEG](https://img.shields.io/badge/powered%20by-SimPEG-blue.svg)](http://simpeg.xyz)
+
 Dashboard example for inverting 1D DC resistivity data
 
 This example runs a DC resistivity forward simulation for a 1D layered earth model that can have up to 5 layers. 
 
+You can also run the example as a [voila dashboard](https://github.com/QuantStack/voila) using the below link
+
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/lheagy/gwb-dc-dashboard/master?urlpath=voila%2Frender%2FDC-Forward-Simulation.ipynb)
-[![License](https://img.shields.io/github/license/simpeg-research/gwb-dc-dashboard.svg)](https://github.com/simpeg-research/gwb-dc-dashboard/blob/master/LICENSE)
-[![SimPEG](https://img.shields.io/badge/powered%20by-SimPEG-blue.svg)](http://simpeg.xyz)
 
 ## Usage
 
@@ -65,3 +72,8 @@ For more information on running Jupyter notebooks, see the [Jupyter Documentatio
 Please [make an issue](https://github.com/simpeg-research/## Issues
 
 Please [make an issue](https://github.com/simpeg-research/heagy_2018_AEM/issues) if you encounter any problems while trying to run the notebooks./issues) if you encounter any problems while trying to run the notebooks.
+
+
+## License
+These notebooks are licensed under the [BSD3 License](/LICENSE) which allows academic and commercial re-use and adaptation of this work.
+
