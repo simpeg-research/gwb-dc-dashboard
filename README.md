@@ -71,9 +71,7 @@ For more information on running Jupyter notebooks, see the [Jupyter Documentatio
 
 ## Issues
 
-Please [make an issue](https://github.com/simpeg-research/## Issues
-
-Please [make an issue](https://github.com/simpeg-research/heagy_2018_AEM/issues) if you encounter any problems while trying to run the notebooks./issues) if you encounter any problems while trying to run the notebooks.
+Please [make an issue](https://github.com/simpeg-research/gwb-dc-dashboard/issues) if you encounter any problems while trying to run the notebooks./issues) if you encounter any problems while trying to run the notebooks.
 
 
 ## License
