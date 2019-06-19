@@ -10,6 +10,8 @@ Dashboard example for inverting 1D DC resistivity data
 
 This example runs a DC resistivity forward simulation for a 1D layered earth model that can have up to 5 layers. 
 
+![currents3layermodel](currents3layermodel.png)
+
 You can also run the example as a [voila dashboard](https://github.com/QuantStack/voila) using the below link
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/lheagy/gwb-dc-dashboard/master?urlpath=voila%2Frender%2FDC-Forward-Simulation.ipynb)
