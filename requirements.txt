@@ -3,5 +3,5 @@ scipy
 matplotlib
 mkl
 voila
-git+https://github.com/simpeg/simpeg
+SimPEG
 
