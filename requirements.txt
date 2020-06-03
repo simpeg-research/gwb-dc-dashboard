@@ -3,5 +3,6 @@ scipy
 matplotlib
 mkl
 voila
-SimPEG
+SimPEG<0.14
+
 
