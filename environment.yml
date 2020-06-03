@@ -7,6 +7,6 @@ dependencies:
   - matplotlib
   - mkl
   - voila
-  - pip:
-    - SimPEG
+  - SimPEG<0.14
+    
 
