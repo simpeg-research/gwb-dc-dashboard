@@ -3,6 +3,7 @@
 # gwb-dc-dashboard
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/simpeg-research/gwb-dc-dashboard/master)
+[![Build Status](https://travis-ci.org/simpeg-research/gwb-dc-dashboard.svg?branch=master)](https://travis-ci.org/simpeg-research/gwb-dc-dashboard)
 [![License](https://img.shields.io/github/license/simpeg-research/gwb-dc-dashboard.svg)](https://github.com/simpeg-research/gwb-dc-dashboard/blob/master/LICENSE)
 [![SimPEG](https://img.shields.io/badge/powered%20by-SimPEG-blue.svg)](http://simpeg.xyz)
 
