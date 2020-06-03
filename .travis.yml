@@ -17,7 +17,7 @@ install:
   - conda env create -f environment.yml
   - source activate gwb-dc
   - export MPLBACKEND="agg"
-  - conda install pytest
+  - conda install --yes pytest
   - pip install testipynb
 
 script:
